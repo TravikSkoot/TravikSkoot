@@ -6,4 +6,4 @@ I'm an experienced hobby developer, currently pursuing a degree as a Design Tech
 ## Technical Skills
 - Graphic Design: Adobe Photoshop, Illustrator, Premiere Pro, After Effects, InDesign
 
-![Top Langs](https://github-readme-stats-orpin-six-14.vercel.app/api/top-langs/?username=TravikSkoot&count-private=true&show_icons=true&langs_count=10&layout=donut)
+![Top Langs](https://github-readme-stats-orpin-six-14.vercel.app/api/top-langs/?username=TravikSkoot&count_private=true&show_icons=true&langs_count=10&layout=donut)
